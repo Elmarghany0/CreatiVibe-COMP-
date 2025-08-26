@@ -1,0 +1,109 @@
+.orange{
+        color: #F97316;;
+}
+.dela-gothic-one-regular {
+        font-family: "Dela Gothic One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.poppins-regular-normal {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+header {
+        background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.65) 65.78%, rgba(0, 0, 0, 0.85) 100%), url(/image/2e3148355fb298e3fbc35a8747abb2f1591b3289.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 807px;
+}
+
+.main_text{
+        background: linear-gradient(270deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.32) 100%);
+        width: 769px;
+        height: fit-content;
+        top: 183px;
+        left: 96px;
+        opacity: 1;
+        padding-top: 24px;
+        padding-bottom: 24px;
+        gap: 10px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+}
+.next_main_text{
+        width: 1081px;
+        height: 163px;
+        top: 280px;
+        opacity: 1;
+}
+.cardss{
+        background: #00000026;
+        border: 0.5px solid #00000026;
+        width: 339px;
+        height: 163px;
+        opacity: 1;
+        padding-top: 16px;
+        padding-right: 24px;
+        padding-bottom: 16px;
+        padding-left: 24px;
+        border-radius: 8px;
+        border-width: 0.5px;
+}
+.bigcards{
+        height: 408px;
+        background-color: white;
+        border-radius: 8px;
+}
+.one{
+        background-image: url(/image/403daa3b684214ad3fb78f71d0749a9d5e6bf926.jpg);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 460px;
+        height: 428px;
+}
+.two{
+        background-image: url(/image/de4aa6aa5f9dd7b490e7b627e147bd50ba024f1e.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 460px;
+        height: 428px;
+}
+.three{
+        background-image: url(/image/756fd18e9d4b537b3914c9bc90a2499a093f4e19.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 460px;
+        height: 428px;
+}
+.about-photo{
+        max-width: 555px;
+        max-height: 513px;
+        border-radius: 8px;
+}
+.about-photo img{
+        width: 100%;
+        height: 100%;
+        border-radius: 8px;
+}
+.review{
+        width: 554px;
+        min-height: 206px;
+        gap: 8px;
+        border-radius: 8px;
+        padding-top: 24px;
+        padding-right: 16px;
+        padding-bottom: 24px;
+        padding-left: 16px;
+        border:0.2px solid #717070
+}
+footer{
+        background-color: #F3F4F6;
+        min-height: 267px;
+}
